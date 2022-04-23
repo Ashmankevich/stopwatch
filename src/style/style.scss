@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   outline: none;
+}
+
+$colorBackground: #066acd;
+$colorTimer: #ffb6c1;
+$colorWhite: #fff;
+$colorBtnStop: #ff4343;
+$colorBtnStopActive: #e71414;
+$colorBtnStopHover: #eb1515;
+$colorBtnStart: #1a9248;
+$colorBtnStartActive: #3dac55;
+$colorBtnStartHover: #05940e;
+$colorBtnReset: #ffa500;
+$colorBtnResetActive: #f0b64c;
+$colorBtnResetHover: #f5c56c;;
+
+
+@mixin Btn {
+   font-size: 18px;
+   line-height: 22px;
+   color: $colorWhite;
+   display: block;
+   max-width: 170px;
+   width: 100%;
+   text-transform: capitalize;
+   border-radius: 10px;
+   text-align: center;
+   margin: 0 auto;
+   padding: 12px 0 12px 0;
+   background-color: $colorBtnStop;
+   border: none;
+   cursor: pointer;
+   transition: all 0.3s linear;
+   &:hover {
+      background-color: $colorBtnStopHover;
+   }
+   &:active {
+      background-color: $colorBtnStop;
+      box-shadow: 4px 4px 30px 0px $colorBtnStopActive;
+   }
+   @media (max-width: 650px) {
+      font-size: 16px;
+      line-height: 20px;
+      max-width: 110px;
+      padding: 10px 0;
+   }
+   @media (max-width: 450px) {
+      font-size: 14px;
+      line-height: 18px;
+      max-width: 80px;
+      padding: 8px 0;
+   }
+}
+
+body {
+   background-color: $colorBackground;
+}
+
+.root {
+   padding: 40px 0;
+   .title {
+      font-size: 35px;
+      line-height: 40px;
+      margin-bottom: 50px;
+      text-align: center;
+      color: $colorWhite;
+   }
+}
+
+span {
+   font-size: 15px;
+   line-height: 20px;
+   font-weight: 300;
+}
+
+.container {
+   max-width: 1200px;
+   padding: 0 15px;
+   margin: 0 auto;
+}
+
+.wrapper {
+   max-width: 750px;
+   border-radius: 20px;
+   margin: 0 auto;
+}
+
+.timer {
+   display:flex;
+   justify-content: space-around;
+   align-items: center;
+   margin: 0 auto 30px;
+   max-width: 750px;
+   width: 100%;
+   max-height: 150px;
+   height: 100%;
+   border-radius: 15px;
+   background-color: $colorTimer;
+   .time {
+      font-size: 100px;
+      color:$colorWhite;
+      max-width: 500px;
+      width: 100%;
+      text-align: center;
+      @media (max-width: 750px) {
+         font-size: 80px;
+      }
+      @media (max-width: 550px) {
+         font-size: 50px;
+      }
+      @media (max-width: 450px) {
+         font-size: 35px;
+      }
+   }
+   .format {
+         font-size: 100px;
+         color:$colorWhite;
+         margin-right: 20px;
+         @media (max-width: 750px) {
+            font-size: 80px;
+         }
+         @media (max-width: 550px) {
+            font-size: 50px;
+         }
+         @media (max-width: 450px) {
+            font-size: 35px;
+         }
+   }
+}
+
+.row__btn {
+   display: flex;
+   justify-content: space-between;
+   background-color: $colorWhite;
+   padding: 15px 0;
+   border-radius: 15px;
+   #stop {
+      @include Btn();
+   }
+   #start {
+      @include Btn();
+      background-color:$colorBtnStart;
+      &:hover {
+         background-color: $colorBtnStartHover;
+      }
+      &:active {
+         background-color: $colorBtnStart;
+         box-shadow: 4px 4px 30px 0px $colorBtnStartActive;
+      }
+   }
+   #reset {
+      @include Btn();
+      background-color:$colorBtnReset;
+      &:hover {
+         background-color: $colorBtnResetHover;
+      }
+      &:active {
+         background-color: $colorBtnReset;
+         box-shadow: 4px 4px 30px 0px $colorBtnResetActive;
+      }
+   }
+   @media (max-width: 450px) {
+      min-height: 50px;
+   }
+}

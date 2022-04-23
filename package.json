@@ -1,0 +1,27 @@
+{
+   "name": "app_timer",
+   "version": "1.0.0",
+   "description": "This is a simple timer that counts down the seconds",
+   "scripts": {
+      "dev": "parcel ./src/index.html",
+      "build": "parcel build ./src/index.html --no-source-maps",
+      "predeploy": "npm run dev",
+      "deploy": "gh-pages -d dev",
+      "homepage": "https://github.com/Ashmankevich/timer#readme"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Ashmankevich/timer.git"
+   },
+   "author": "Andrew Ashmankevich",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/Ashmankevich/timer/issues"
+   },
+   "homepage": "https://github.com/Ashmankevich/timer#readme",
+   "devDependencies": {
+      "parcel": "^2.5.0",
+      "parcel-bundler": "^1.12.5",
+      "sass": "^1.50.1"
+   }
+}
