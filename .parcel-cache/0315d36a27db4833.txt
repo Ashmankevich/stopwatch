@@ -80,7 +80,7 @@
 86D:\IT\code_for_web\app_timer\node_modules\winston\test\transports\file-archive-test.js132951794501552056 0
 51D:\IT\code_for_web\app_timer\node_modules\aws-sign2132951741121158471 1
 94D:\IT\code_for_web\app_timer\node_modules\jsdom\lib\jsdom\living\navigator\PluginArray-impl.js132951741600227206 0
-39D:\IT\code_for_web\app_timer\index.html132951821697925073 0
+39D:\IT\code_for_web\app_timer\index.html132951850832993793 0
 102D:\IT\code_for_web\app_timer\node_modules\@parcel\reporter-cli\node_modules\@parcel\utils\package.json132951746886348768 0
 86D:\IT\code_for_web\app_timer\node_modules\@parcel\reporter-dev-server\src\HMRServer.js132951746675908799 0
 62D:\IT\code_for_web\app_timer\node_modules\lodash\fp\useWith.js132951741702315463 0
