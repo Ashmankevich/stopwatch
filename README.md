@@ -1,14 +1,14 @@
-# timer
+# Timer
 This is a simple timer that counts down the seconds
 
-# Technologies:
-HTML5 / SCSS
-Javascript
+### Technologies:
+1. HTML5 / SCSS
+2. Javascript
 
-# How to start
-Download a repository from github:
-git@github.com:Ashmankevich/timer.git
+### How to start
+1. Download a repository from github:
+>git@github.com:Ashmankevich/timer.git
 
-$ npm install
+2. $ npm install
 
-$ npm run dev
+3. $ npm run dev
