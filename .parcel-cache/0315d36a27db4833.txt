@@ -1,4 +1,4 @@
-26885
+26887
 85D:\IT\code_for_web\app_timer\node_modules\tabalot\node_modules\minimist\test\proto.js132951794483490021 0
 84D:\IT\code_for_web\app_timer\node_modules\es-abstract\2018\OrdinaryGetOwnProperty.js132951741655143144 0
 102D:\IT\code_for_web\app_timer\node_modules\@parcel\transformer-js\node_modules\ansi-styles\package.json132951746599304529 0
@@ -10,7 +10,7 @@
 100D:\IT\code_for_web\app_timer\node_modules\parcel-bundler\src\builtins\loaders\browser\html-loader.js132951741567577435 0
 54D:\IT\code_for_web\app_timer\node_modules\async\dir.js132951784928979794 0
 68D:\IT\code_for_web\app_timer\node_modules\lodash\fp\sortedIndexOf.js132951741675206620 0
-33D:\IT\code_for_web\app_timer\dist132951822838064712 1
+33D:\IT\code_for_web\app_timer\dist132952814369911607 1
 65D:\IT\code_for_web\app_timer\node_modules\data-urls\lib\parser.js132951741158840668 0
 65D:\IT\code_for_web\app_timer\node_modules\lodash\_baseToNumber.js132951741550765805 0
 48D:\IT\code_for_web\app_timer\node_modules\@lezer132951746523182929 1
@@ -54,7 +54,7 @@
 57D:\IT\code_for_web\app_timer\node_modules\deep-equal\test132951794462626121 1
 61D:\IT\code_for_web\app_timer\node_modules\lodash\_stackGet.js132951741592932344 0
 57D:\IT\code_for_web\app_timer\node_modules\has-tostringtag132951741359771280 1
-41D:\IT\code_for_web\app_timer\src\index.js132945282444948106 0
+41D:\IT\code_for_web\app_timer\src\index.js132952814361052642 0
 84D:\IT\code_for_web\app_timer\node_modules\es-abstract\2016\FromPropertyDescriptor.js132951741594103126 0
 88D:\IT\code_for_web\app_timer\node_modules\regenerate-unicode-properties\Script\Syriac.js132951741605300588 0
 64D:\IT\code_for_web\app_timer\node_modules\lodash\fp\identical.js132951741642604789 0
@@ -80,7 +80,7 @@
 86D:\IT\code_for_web\app_timer\node_modules\winston\test\transports\file-archive-test.js132951794501552056 0
 51D:\IT\code_for_web\app_timer\node_modules\aws-sign2132951741121158471 1
 94D:\IT\code_for_web\app_timer\node_modules\jsdom\lib\jsdom\living\navigator\PluginArray-impl.js132951741600227206 0
-39D:\IT\code_for_web\app_timer\index.html132951850832993793 0
+39D:\IT\code_for_web\app_timer\index.html132952766641308229 0
 102D:\IT\code_for_web\app_timer\node_modules\@parcel\reporter-cli\node_modules\@parcel\utils\package.json132951746886348768 0
 86D:\IT\code_for_web\app_timer\node_modules\@parcel\reporter-dev-server\src\HMRServer.js132951746675908799 0
 62D:\IT\code_for_web\app_timer\node_modules\lodash\fp\useWith.js132951741702315463 0
@@ -107,7 +107,7 @@
 93D:\IT\code_for_web\app_timer\node_modules\performance-now\test\scripts\delayed-require.coffee132951741376885800 0
 67D:\IT\code_for_web\app_timer\node_modules\has-symbols\test\index.js132951741284193356 0
 53D:\IT\code_for_web\app_timer\node_modules\@jridgewell132951740824140306 1
-38D:\IT\code_for_web\app_timer\README.md132951772211381659 0
+38D:\IT\code_for_web\app_timer\README.md132952810583379244 0
 84D:\IT\code_for_web\app_timer\node_modules\snapdragon\node_modules\debug\src\index.js132951741387551869 0
 47D:\IT\code_for_web\app_timer\node_modules\json5132951741235978270 1
 75D:\IT\code_for_web\app_timer\node_modules\static-module\test\vars\source.js132951741541579685 0
@@ -151,13 +151,13 @@
 45D:\IT\code_for_web\app_timer\node_modules\psl132951741376705680 1
 97D:\IT\code_for_web\app_timer\node_modules\@parcel\optimizer-htmlnano\node_modules\srcset\index.js132951746591729480 0
 57D:\IT\code_for_web\app_timer\node_modules\acorn-walk\dist132951741296588636 1
-48D:\IT\code_for_web\app_timer\src\style\style.css132951782121873528 0
+48D:\IT\code_for_web\app_timer\src\style\style.css132952792811031975 0
 71D:\IT\code_for_web\app_timer\node_modules\mdn-data\css\definitions.json132951741353676062 0
 66D:\IT\code_for_web\app_timer\node_modules\postcss-minify-selectors132951741119624207 1
 65D:\IT\code_for_web\app_timer\node_modules\yaml\types\timestamp.js132951746806360290 0
 76D:\IT\code_for_web\app_timer\node_modules\regjsparser\node_modules\jsesc\bin132951741200818460 1
 66D:\IT\code_for_web\app_timer\node_modules\node-gyp-build\README.md132951795619090259 0
-52D:\IT\code_for_web\app_timer\src\style\style.css.map132951782121903572 0
+52D:\IT\code_for_web\app_timer\src\style\style.css.map132952792811162048 0
 81D:\IT\code_for_web\app_timer\node_modules\@parcel\transformer-babel\lib\config.js132951746688537205 0
 104D:\IT\code_for_web\app_timer\node_modules\postcss-modules-values\node_modules\postcss\lib\stringifier.js132951741480543157 0
 82D:\IT\code_for_web\app_timer\node_modules\@parcel\transformer-js\src\loadNative.js132951746686986180 0
@@ -166,7 +166,7 @@
 87D:\IT\code_for_web\app_timer\node_modules\es-abstract\2017\CreateDataPropertyOrThrow.js132951741564795582 0
 86D:\IT\code_for_web\app_timer\node_modules\json-schema-traverse\spec\fixtures\schema.js132951741295948209 0
 82D:\IT\code_for_web\app_timer\node_modules\static-module\test\brfs\multi_require.js132951741425252610 0
-49D:\IT\code_for_web\app_timer\src\style\style.scss132945282446038833 0
+49D:\IT\code_for_web\app_timer\src\style\style.scss132952792801589080 0
 64D:\IT\code_for_web\app_timer\node_modules\lodash\_baseInRange.js132951741499073487 0
 59D:\IT\code_for_web\app_timer\node_modules\pn\async_hooks.js132951741214266052 0
 71D:\IT\code_for_web\app_timer\node_modules\terser\dist\bundle.min.js.map132951741507328260 0
@@ -3158,6 +3158,7 @@
 65D:\IT\code_for_web\app_timer\node_modules\setprototypeof\index.js132951741077995976 0
 76D:\IT\code_for_web\app_timer\node_modules\cssstyle\lib\properties\padding.js132951741509129454 0
 75D:\IT\code_for_web\app_timer\node_modules\core-js\library\fn\object\keys.js132951741719026600 0
+52D:\IT\code_for_web\app_timer\dist\index.403b282b.css132952769552286516 0
 59D:\IT\code_for_web\app_timer\node_modules\is-json\README.md132951746597763513 0
 47D:\IT\code_for_web\app_timer\node_modules\saxes132951741183345407 1
 74D:\IT\code_for_web\app_timer\node_modules\core-js\modules\es6.math.sign.js132951741642874967 0
@@ -14787,6 +14788,7 @@
 72D:\IT\code_for_web\app_timer\node_modules\is-accessor-descriptor\LICENSE132951741079819971 0
 85D:\IT\code_for_web\app_timer\node_modules\is-accessor-descriptor\node_modules\kind-of132951741182845079 1
 80D:\IT\code_for_web\app_timer\node_modules\core-js\library\fn\string\match-all.js132951741723169371 0
+51D:\IT\code_for_web\app_timer\dist\index.10615fa8.js132952769550815534 0
 86D:\IT\code_for_web\app_timer\node_modules\@parcel\core\node_modules\dotenv\lib\main.js132951746680661978 0
 93D:\IT\code_for_web\app_timer\node_modules\is-accessor-descriptor\node_modules\kind-of\LICENSE132951741013402125 0
 120D:\IT\code_for_web\app_timer\node_modules\@parcel\packager-html\node_modules\entities\lib\generated\decode-data-xml.d.ts132951746765623902 0
@@ -23621,7 +23623,7 @@
 117D:\IT\code_for_web\app_timer\node_modules\@parcel\packager-html\node_modules\dom-serializer\lib\foreignNames.d.ts.map132951746692399784 0
 111D:\IT\code_for_web\app_timer\node_modules\@parcel\packager-html\node_modules\dom-serializer\lib\foreignNames.js132951746612454622 0
 106D:\IT\code_for_web\app_timer\node_modules\@parcel\packager-html\node_modules\dom-serializer\lib\index.d.ts132951746742328384 0
-51D:\IT\code_for_web\app_timer\dist\index.579125c3.js132951821983445328 0
+51D:\IT\code_for_web\app_timer\dist\index.579125c3.js132952814369111084 0
 110D:\IT\code_for_web\app_timer\node_modules\@parcel\packager-html\node_modules\dom-serializer\lib\index.d.ts.map132951746706359436 0
 117D:\IT\code_for_web\app_timer\node_modules\@parcel\packager-html\node_modules\dom-serializer\lib\esm\foreignNames.d.ts132951746734433127 0
 110D:\IT\code_for_web\app_timer\node_modules\@parcel\packager-html\node_modules\dom-serializer\lib\esm\index.d.ts132951746739956807 0
@@ -26879,8 +26881,8 @@
 51D:\IT\code_for_web\app_timer\node_modules\.bin\uuid132951741836159546 0
 55D:\IT\code_for_web\app_timer\node_modules\.bin\uuid.cmd132951741836149531 0
 52D:\IT\code_for_web\app_timer\node_modules\.bin\which132951741836209582 0
-55D:\IT\code_for_web\app_timer\dist\index.579125c3.js.map132951821984056018 0
+55D:\IT\code_for_web\app_timer\dist\index.579125c3.js.map132952814369191148 0
 52D:\IT\code_for_web\app_timer\dist\index.9e2f1fe1.css132951822691675577 0
-52D:\IT\code_for_web\app_timer\dist\index.ee7f3cbd.css132951821983465336 0
-56D:\IT\code_for_web\app_timer\dist\index.ee7f3cbd.css.map132951821983715499 0
-44D:\IT\code_for_web\app_timer\dist\index.html132951822837854581 0
+52D:\IT\code_for_web\app_timer\dist\index.ee7f3cbd.css132952792844520744 0
+56D:\IT\code_for_web\app_timer\dist\index.ee7f3cbd.css.map132952792844560766 0
+44D:\IT\code_for_web\app_timer\dist\index.html132952792847153008 0
