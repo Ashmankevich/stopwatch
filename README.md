@@ -1,6 +1,6 @@
 # Stopwatch
 
-This is a simple timer that counts down the seconds
+The simple timer that counts down the seconds
 ## [view demo](https://ashmankevich.github.io/Stopwatch/)
 
 ### Technologies:
