@@ -1,5 +1,7 @@
 # Stopwatch
+
 This is a simple timer that counts down the seconds
+## [view demo](https://ashmankevich.github.io/Stopwatch/)
 
 ### Technologies:
 1. HTML5 / SCSS
@@ -12,3 +14,5 @@ This is a simple timer that counts down the seconds
 2. $ npm install
 
 3. $ npm run dev
+
+
