@@ -1,7 +1,7 @@
 # Stopwatch
 
 The simple timer that counts down the seconds
-## [view demo](https://ashmankevich.github.io/Stopwatch/)
+## [view demo](https://ashmankevich.github.io/stopwatch/)
 
 ### Technologies:
 1. HTML5 / SCSS
